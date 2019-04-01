@@ -1,0 +1,31 @@
+{
+	"name": "vndwalletapi",
+	"version": "1.0.0",
+	"description": "API for vndwallet",
+	"author": "VnPayBlockChainTeam",
+	"license": "ISC",
+	"dependencies": {
+		"blipp": "^2.3.0",
+		"crypto": "^1.0.1",
+		"ethereum-input-data-decoder": "^0.1.1",
+		"ethereumjs-tx": "^1.3.7",
+		"ethereumjs-util": "^6.0.0",
+		"fs": "0.0.1-security",
+		"fs-extra": "^7.0.1",
+		"glue": "^4.1.0",
+		"good": "^7.1.0",
+		"good-console": "^6.4.0",
+		"good-squeeze": "^5.0.1",
+		"hapi": "^16.6.2",
+		"hapi-swagger": "^8.0.0",
+		"hapijs-status-monitor": "^0.6.0",
+		"inert": "^4.2.1",
+		"log4js": "^3.0.6",
+		"md5": "^2.2.1",
+		"moment": "^2.23.0",
+		"vision": "^4.0.1",
+		"web3": "^0.20.6",
+		"web3_extend": "^1.0.0",
+		"web3admin": "^0.4.4"
+	}
+}

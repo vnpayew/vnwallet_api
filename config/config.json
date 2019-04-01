@@ -1,0 +1,10 @@
+{
+    "urlRPC": "http://localhost:8502",
+    "addressVNDWallet": "0x6edbe9a5389ee8e68be8ed310f8d683772320671",
+    "coinbaseVNDWallet": "0x8d5ee4b23382d7492355bf5c94bc2ee5311b90f6",
+    "abiFileVNDWallet": "./config/abi.json",
+    "addressVNDBusiness": "0x550da11cc2773b544c72dffe93ac5b6e18d29142",
+    "abiFileVNDBusiness": "./config/abiBusiness.json",
+    "addressVNDReqToPay": "0x8d92fbfdf99ab98cca3ef2aaa670d5e36e27452d",
+    "abiFileVNDReqToPay": "./config/abiReqToPay.json"
+}
